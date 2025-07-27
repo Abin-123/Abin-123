@@ -1,0 +1,31 @@
+name: Generate README
+
+on:
+  push:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate README with markscribe
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_READMESCRIBE }}
+        with:
+          template: "templates/readme.tpl"
+          writeTo: "README.md"
+    
+
+      - name: Commit and push changes
+        uses: endbug/add-and-commit@v9
+        with:
+          message: "chore: generate readme"
