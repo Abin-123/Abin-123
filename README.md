@@ -46,7 +46,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [Abin-123/Kalki-Project](https://github.com/Abin-123/Kalki-Project) -  (1 week ago)
-- [Abin-123/webdevelopemnt](https://github.com/Abin-123/webdevelopemnt) -  (2 weeks ago)
+- [Abin-123/webdevelopemnt](https://github.com/Abin-123/webdevelopemnt) -  (3 weeks ago)
 - [Abin-123/PathFinders](https://github.com/Abin-123/PathFinders) - .hack() 24 MACE (11 months ago)
 
 #### 🌱 My latest projects
@@ -61,11 +61,11 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [9001/copyparty](https://github.com/9001/copyparty) (today) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
-- [wshobson/agents](https://github.com/wshobson/agents) (today) - A collection of production-ready subagents for Claude Code
-- [safak/youtube23](https://github.com/safak/youtube23) (today) - Lama Dev Season 3
-- [GradSpace-360/gradspaceBK](https://github.com/GradSpace-360/gradspaceBK) (today) - Backend for GradSpace, powered by Go and Fiber, ensuring high-performance API handling and robust server-side logic
-- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (today) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
+- [9001/copyparty](https://github.com/9001/copyparty) (1 day ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
+- [wshobson/agents](https://github.com/wshobson/agents) (1 day ago) - A collection of production-ready subagents for Claude Code
+- [safak/youtube23](https://github.com/safak/youtube23) (1 day ago) - Lama Dev Season 3
+- [GradSpace-360/gradspaceBK](https://github.com/GradSpace-360/gradspaceBK) (1 day ago) - Backend for GradSpace, powered by Go and Fiber, ensuring high-performance API handling and robust server-side logic
+- [GradSpace-360/Gradspace-frontend](https://github.com/GradSpace-360/Gradspace-frontend) (1 day ago) - Frontend for GradSpace, built with React, TypeScript, and Vite for a fast, scalable, and modern user interface
 
 #### 🌟 Open Source Contributions
 
