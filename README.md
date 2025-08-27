@@ -47,7 +47,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 - [Abin-123/Kalki-Project](https://github.com/Abin-123/Kalki-Project) -  (1 month ago)
 - [Abin-123/webdevelopemnt](https://github.com/Abin-123/webdevelopemnt) -  (1 month ago)
-- [Abin-123/PathFinders](https://github.com/Abin-123/PathFinders) - .hack() 24 MACE (11 months ago)
+- [Abin-123/PathFinders](https://github.com/Abin-123/PathFinders) - .hack() 24 MACE (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -64,8 +64,8 @@ In my free time, I enjoy music and connecting with people from different culture
 - [aws-ia/terraform-aws-control_tower_account_factory](https://github.com/aws-ia/terraform-aws-control_tower_account_factory) (1 week ago) - AWS Control Tower Account Factory
 - [venom-blockchain/nekoton](https://github.com/venom-blockchain/nekoton) (1 week ago) - Broxus SDK with TIP3 wallets support and a bunch of helpers
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (3 weeks ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-- [9001/copyparty](https://github.com/9001/copyparty) (3 weeks ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
-- [wshobson/agents](https://github.com/wshobson/agents) (3 weeks ago) - A collection of production-ready subagents for Claude Code
+- [9001/copyparty](https://github.com/9001/copyparty) (4 weeks ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
+- [wshobson/agents](https://github.com/wshobson/agents) (4 weeks ago) - A collection of production-ready subagents for Claude Code
 
 #### 🌟 Open Source Contributions
 
