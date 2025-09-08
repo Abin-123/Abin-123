@@ -46,8 +46,7 @@ In my free time, I enjoy music and connecting with people from different culture
 
 
 - [Abin-123/Kalki-Project](https://github.com/Abin-123/Kalki-Project) -  (1 month ago)
-- [Abin-123/webdevelopemnt](https://github.com/Abin-123/webdevelopemnt) -  (1 month ago)
-- [Abin-123/PathFinders](https://github.com/Abin-123/PathFinders) - .hack() 24 MACE (1 year ago)
+- [Abin-123/webdevelopemnt](https://github.com/Abin-123/webdevelopemnt) -  (2 months ago)
 
 #### 🌱 My latest projects
 
