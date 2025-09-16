@@ -45,7 +45,7 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [Abin-123/Kalki-Project](https://github.com/Abin-123/Kalki-Project) -  (1 month ago)
+- [Abin-123/Kalki-Project](https://github.com/Abin-123/Kalki-Project) -  (2 months ago)
 - [Abin-123/webdevelopemnt](https://github.com/Abin-123/webdevelopemnt) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -60,8 +60,8 @@ In my free time, I enjoy music and connecting with people from different culture
 #### ⭐ Recent Stars
 
 
-- [aws-ia/terraform-aws-control_tower_account_factory](https://github.com/aws-ia/terraform-aws-control_tower_account_factory) (3 weeks ago) - AWS Control Tower Account Factory
-- [venom-blockchain/nekoton](https://github.com/venom-blockchain/nekoton) (3 weeks ago) - Broxus SDK with TIP3 wallets support and a bunch of helpers
+- [aws-ia/terraform-aws-control_tower_account_factory](https://github.com/aws-ia/terraform-aws-control_tower_account_factory) (4 weeks ago) - AWS Control Tower Account Factory
+- [venom-blockchain/nekoton](https://github.com/venom-blockchain/nekoton) (4 weeks ago) - Broxus SDK with TIP3 wallets support and a bunch of helpers
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (1 month ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [9001/copyparty](https://github.com/9001/copyparty) (1 month ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
 - [wshobson/agents](https://github.com/wshobson/agents) (1 month ago) - A collection of production-ready subagents for Claude Code
