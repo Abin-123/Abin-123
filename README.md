@@ -64,7 +64,7 @@ In my free time, I enjoy music and connecting with people from different culture
 - [venom-blockchain/nekoton](https://github.com/venom-blockchain/nekoton) (1 month ago) - Broxus SDK with TIP3 wallets support and a bunch of helpers
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (2 months ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [9001/copyparty](https://github.com/9001/copyparty) (2 months ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
-- [wshobson/agents](https://github.com/wshobson/agents) (2 months ago) - A collection of production-ready subagents for Claude Code
+- [wshobson/agents](https://github.com/wshobson/agents) (2 months ago) - Intelligent automation and multi-agent orchestration for Claude Code
 
 #### 🌟 Open Source Contributions
 
