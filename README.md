@@ -63,8 +63,8 @@ In my free time, I enjoy music and connecting with people from different culture
 - [aws-ia/terraform-aws-control_tower_account_factory](https://github.com/aws-ia/terraform-aws-control_tower_account_factory) (4 months ago) - AWS Control Tower Account Factory
 - [venom-blockchain/nekoton](https://github.com/venom-blockchain/nekoton) (4 months ago) - Broxus SDK with TIP3 wallets support and a bunch of helpers
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) (4 months ago) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
-- [9001/copyparty](https://github.com/9001/copyparty) (4 months ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
-- [wshobson/agents](https://github.com/wshobson/agents) (4 months ago) - Intelligent automation and multi-agent orchestration for Claude Code
+- [9001/copyparty](https://github.com/9001/copyparty) (5 months ago) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps
+- [wshobson/agents](https://github.com/wshobson/agents) (5 months ago) - Intelligent automation and multi-agent orchestration for Claude Code
 
 #### 🌟 Open Source Contributions
 
