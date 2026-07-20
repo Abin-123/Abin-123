@@ -45,7 +45,6 @@ In my free time, I enjoy music and connecting with people from different culture
 #### 👷 What am I working on:
 
 
-- [Abin-123/Kalki-Project](https://github.com/Abin-123/Kalki-Project) -  (1 year ago)
 
 #### 🌱 My latest projects
 
